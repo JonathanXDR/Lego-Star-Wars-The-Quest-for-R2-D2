@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_Name: Custom Mesh
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 47
+    topology: 1
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 35
+    localAABB:
+      m_Center: {x: 0.01971531, y: -2.218213, z: -5.996918}
+      m_Extent: {x: 2.019715, y: 0.2182131, z: 5.996918}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 060006000700160017000d000f000c000e000100020002002100210008001d0018001a001100190010001e00030003002200220009001f0014001c0012001b0013002000040004000100010000000c000a000d000b001600150006000500
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 139
+    m_VertexCount: 35
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 32
+      format: 0
+      dimension: 4
+    m_DataSize: 1680
+    _typelessdata: 00000040010000c0b81e85333e28c03e09496dbf0be844bbe4b8883921fa3f3f58496dbfb227c0be3b57f6ba000080bf7049af3fea5d10c00ad7a33151136e3efffb78bf6c1f0cbb821b1f3df5fc3f3f26fc78bf22136ebedf8416ba000080bf859f0f3e2dec16c000000000eb15ab3de01a7fbf73a09fba60d3ed3dd6fd3f3fed1a7fbf0c16abbddf173139000080bf6f8580bf6e2106c000000000ab1966befd7379bf83773cba4a16403e7dfa3f3f017479bfa219663e08108c39000080bf000000c00a0000c000000000c2cdc0bdf0dc7ebf339f87b7f2f47f3e1ef93f3fefdc7ebfc1cdc03d41a2af39000080bf08860240050000c0c0e63fc1f63fdb3d9c627ebfebc608bde4b88839f16b6e384b877ebfe53adbbd4e7708bb000080bf4266723eb6d303c0c0e63fc18f33d43db4817ebfb34ff5bc2998e03d9df44a370a9e7ebf817ad4bdab51443b000080bf24a92abfcf5713c0c0e63fc14d61cf3d13967ebf3800e2bcbbb02a3e140c593886ae7ebff88bcfbdcb11cd3a000080bfde159abf69ee1bc0c0e63fc1f15bc43d57b27ebfa552fe3ccf654d3ebe459a38bcd17ebff30dc4bd30abcc3b000080bf866efcbfc9c801c092e33fc18b6cdcbe6b0c67bfce6f1b3cdbe67f3e8a086eb7760e67bf2171dc3e4af5fa3a000080bff5adff3f000000c097bae0be2990a43e626572bfeb7e49bce4ba883972f0383fb46972bf3c95a4be0ec9a43a000080bfeb850240060000c0fe9a7fc03e3d683e985379bfa0d593bbe4b888393a4e003fe35279bf554368bec215b63b000080bfcad2ae3f604b10c07ce02cbfa61b443e4a3d7bbf7c4655bc2f08203dd82d353fd2427bbf2d1e44be22eb06ba000080bfdc3ecc3e9cb812c0ad4f80c017abf23d722c7ebf15885abc8d65cc3d029eff3e9b317ebfa0c5f2bd690b493b000080bf0a5a0b3e04eb16c02ed257bf2858923d86557fbf273e1bbc925cee3d607f323f74587fbfec5292bd0d59b6ba000080bfe14a3bbf9c6f15c0fe9a7fc08a03283d00bc7fbf211ca2bc43e92e3e5210003fb2c87fbfa1ce27bd3e5141bb000080bf803980bf7b0a06c0e46b12bf16a882bedb7977bf7c3a9c3caaef3f3ed4d2363f8a8477bf5cb3823e5ad50e3b000080bf1415a6bfdd0b04c0fe9a7fc000bc53be35687abf6146b03c66e6523e030d003f0a717abf70fc533e53e0213c000080bf866efcbfc9c801c0a2967ec07ff60ebeca777dbfe756633cdbe67f3ea30b003ff6747dbf8e2b0f3ed2bd733c000080bff7c5ffbf0e1d00c00520e1be8c01b0bd810d7fbfb5ec833a0df47f3e92f2383f890d7fbf9601b03dcff21a38000080bf866efcbfc9c801c080cdffc05ac9a3be4b8172bfcce4913cdbe67f3eb60a803e4a8672bf19e0a33ef5c5003c000080bfe9850240050000c080cdffc02a08263eb69a7cbf4c3002bce4b88839a90d803ebd9c7cbfd60926befe172839000080bf78e5be3fbb610cc080cdffc09568f63d271c7ebf63457bbca8d2fe3cea11803e5e237ebfd781f6bd9fc1133b000080bf8f580abe0d5a0dc080cdffc0de47793dcc707fbfbeb1d2bc7066083e7011803e73867fbf4d5a79bd016ad1b8000080bf4a94b5bf12fe0fc080cdffc038fd70bcf3f07fbf8f537f3ceef05a3ec111803ed9f77fbf5c69723c4f44b33b000080bf0a5a0b3e04eb16c02ed257bf5ed385be990777bf2b5abd3c925cee3d607f323f6b1977bf4bd3853ee5144bbb000080bfe14a3bbf9c6f15c0fe9a7fc05f5d59bedb187abf8eeebb3c43e92e3e5210003f1f2a7abfdf62593e728ecaba000080bf803980bf7b0a06c0e46b12bfe14dadbde3147fbf8f79993aaaef3f3ed4d2363f52147fbf1c50ad3d7ddd8a3b000080bf1415a6bfdd0b04c0fe9a7fc023b90ebefc797dbf4da2623c66e6523e030d003f667b7dbfe4df0e3edace293c000080bf8f580abe0d5a0dc080cdffc086ba5abc01f27fbff73a813c7066083e7011803e1ffa7fbfcb6b5a3cd4b0a9ba000080bf859f0f3e2dec16c000000000ab1966befd7379bf83773cba60d3ed3dd6fd3f3f007479bf9519663e2c4b013a000080bf4a94b5bf12fe0fc080cdffc046cea4be445572bf9cb5903ceef05a3ec111803ed05e72bfa1d5a43e3039b939000080bf6f8580bf6e2106c000000000c2cdc0bdf0dc7ebf339f87b74a16403e7dfa3f3fefdc7ebfc1cdc03d245f5439000080bf24a92abfcf5713c0c0e63fc1f15bc43d57b27ebfa352fe3cbbb02a3e140c5938f7d07ebf20a2c4bd508f3abb000080bfde159abf69ee1bc0c0e63fc18b6cdcbe6b0c67bfce6f1b3ccf654d3ebe459a389b0f67bfa16bdc3ed6073cbb000080bf
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0.01971531, y: -2.218213, z: -5.996918}
+    m_Extent: {x: 2.019715, y: 0.2182132, z: 5.996918}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1

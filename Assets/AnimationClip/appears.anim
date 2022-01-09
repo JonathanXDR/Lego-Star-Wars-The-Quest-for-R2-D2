@@ -1,0 +1,300 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: appears
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 0
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: {x: 1, y: 0, z: 0, w: 0}
+        inSlope: {x: -0.4066444, y: 0, z: 0, w: 4.922731}
+        outSlope: {x: -0.4066444, y: 0, z: 0, w: 4.922731}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: {x: 0.9864452, y: 0, z: 0, w: 0.164091}
+        inSlope: {x: -0.7162802, y: 0, z: 0, w: 4.579885}
+        outSlope: {x: -0.7162802, y: 0, z: 0, w: 4.579885}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666667
+        value: {x: 0.856167, y: 0, z: 0, w: 0.5166992}
+        inSlope: {x: -1.476483, y: 0, z: 0, w: 2.501021}
+        outSlope: {x: -1.476483, y: 0, z: 0, w: 2.501021}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666667
+        value: {x: 0.7341583, y: 0, z: 0, w: 0.6789783}
+        inSlope: {x: -0.7817206, y: 0, z: 0, w: 0.8614458}
+        outSlope: {x: -0.7817206, y: 0, z: 0, w: 0.8614458}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4333334
+        value: {x: 0.7071069, y: 0, z: 0, w: 0.7071067}
+        inSlope: {x: -0.2046865, y: 0, z: 0, w: 0.2066821}
+        outSlope: {x: -0.2046865, y: 0, z: 0, w: 0.2066821}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    path: fl_weapon_top_g/fl_weapon_top/fl_weapon_armrL
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1
+        value: {x: 1, y: 0, z: 0, w: 0}
+        inSlope: {x: -0.4066444, y: 0, z: 0, w: 4.922731}
+        outSlope: {x: -0.4066444, y: 0, z: 0, w: 4.922731}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333333
+        value: {x: 0.9864452, y: 0, z: 0, w: 0.164091}
+        inSlope: {x: -0.7162804, y: 0, z: 0, w: 4.579886}
+        outSlope: {x: -0.7162804, y: 0, z: 0, w: 4.579886}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333333
+        value: {x: 0.856167, y: 0, z: 0, w: 0.5166992}
+        inSlope: {x: -1.476483, y: 0, z: 0, w: 2.501021}
+        outSlope: {x: -1.476483, y: 0, z: 0, w: 2.501021}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: {x: 0.7339934, y: 0, z: 0, w: 0.6791566}
+        inSlope: {x: -0.7804433, y: 0, z: 0, w: 0.8601425}
+        outSlope: {x: -0.7804433, y: 0, z: 0, w: 0.8601425}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4
+        value: {x: 0.7071069, y: 0, z: 0, w: 0.7071067}
+        inSlope: {x: -0.2072416, y: 0, z: 0, w: 0.209289}
+        outSlope: {x: -0.2072416, y: 0, z: 0, w: 0.209289}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    path: fl_weapon_top_g/fl_weapon_top/fl_weapon_armrR
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    path: fl_weapon_lid
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -1.4925E-06, z: -1.825678}
+        inSlope: {x: 0, y: 0, z: 7.783049}
+        outSlope: {x: 0, y: 0, z: 7.783049}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: {x: 0, y: -1.4925E-06, z: -1.129301}
+        inSlope: {x: 0, y: 0, z: 5.734872}
+        outSlope: {x: 0, y: 0, z: 5.734872}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: {x: 0, y: -1.4925E-06, z: -0.4738868}
+        inSlope: {x: 0, y: 0, z: 0.8192677}
+        outSlope: {x: 0, y: 0, z: 0.8192677}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: {x: 0, y: -1.4925E-06, z: -0.4602323}
+        inSlope: {x: 0, y: 0, z: 0.4096344}
+        outSlope: {x: 0, y: 0, z: 0.4096344}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    path: fl_weapon_top_g/fl_weapon_top
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.4333334
+        value: {x: -0.18, y: 0.01079542, z: 0.7054095}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666667
+        value: {x: -0.18, y: 0.01079542, z: 0.7054095}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    path: fl_weapon_top_g/fl_weapon_top/fl_weapon_armrL
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.4
+        value: {x: 0.18, y: 0.01079542, z: 0.7054095}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4333334
+        value: {x: 0.18, y: 0.01079542, z: 0.7054095}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    path: fl_weapon_top_g/fl_weapon_top/fl_weapon_armrR
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -1.463573, z: 0.005581493}
+        inSlope: {x: 0, y: 7.783049, z: 0}
+        outSlope: {x: 0, y: 7.783049, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: 0, y: -0.9720122, z: 0.005581493}
+        inSlope: {x: 0, y: 6.554142, z: 0}
+        outSlope: {x: 0, y: 6.554142, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3
+        value: {x: 0, y: -0.1117808, z: 0.005581493}
+        inSlope: {x: 0, y: 0.8192679, z: 0}
+        outSlope: {x: 0, y: 0.8192679, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: {x: 0, y: -0.09812637, z: 0.005581493}
+        inSlope: {x: 0, y: 0.4096338, z: 0}
+        outSlope: {x: 0, y: 0.4096338, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    path: fl_weapon_lid
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.4333334
+        value: {x: -16.87263, y: 16.87263, z: 16.87263}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666667
+        value: {x: -16.87263, y: 16.87263, z: 16.87263}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    path: fl_weapon_top_g/fl_weapon_top/fl_weapon_armrL
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.4
+        value: {x: 16.87263, y: 16.87263, z: 16.87263}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4333334
+        value: {x: 16.87263, y: 16.87263, z: 16.87263}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    path: fl_weapon_top_g/fl_weapon_top/fl_weapon_armrR
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    path: fl_weapon_lid
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

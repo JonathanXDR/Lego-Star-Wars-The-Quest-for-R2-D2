@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 
+  - DetailBig
+  - Character
+  - RoomRoot
+  - NPC
+  - Combine
+  - CombineObjects
+  - 
+  - SceneTemplate
+  - GameCamera
+  - RootCheckpoint
+  - LevelManagers
+  - RoomManagers
+  - 
+  - Managers
+  - Objective
+  - DoNotCombine
+  - 
+  - GridLevelShadows
+  - GridGameObject
+  - LevelParameters
+  - LevelScore
+  - 
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - 
+  - 
+  - 
+  - Entities
+  - 
+  - TransitionPlane
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Floor
+  - Walls
+  - Props
+  - Entities
+  - NPCs
+  - Columns
+  - Doors
+  - Hotspots
+  - TipTrigger
+  - 
+  - 
+  - 
+  m_SortingLayers: []
