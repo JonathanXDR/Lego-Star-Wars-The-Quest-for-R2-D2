@@ -1,0 +1,50 @@
+repo_name: JonathanXDR/Lego-Star-Wars-The-Quest-for-R2-D2
+report_id: 2234b003bd3f31608122839f656c0c7b
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-18T22:28:07+00:00'
+requested_by: JonathanXDR
+provider: github
+branch: main
+detected_tools_count: 4
+tools:
+- name: GLSL
+  description: A high-level C-style language
+  website_url: https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6548/default_a66025fbe8f221c489bdaac3a99d84e5f138cbbd.png
+  detection_source: Repo Metadata
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: ProjectSettings/ProjectVersion.txt
+  last_updated_by: Jonathan Russ
+  last_updated_on: 2022-01-09 23:50:51.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: ProjectSettings/ProjectVersion.txt
+  last_updated_by: Jonathan Russ
+  last_updated_on: 2022-01-09 23:50:51.000000000 Z
